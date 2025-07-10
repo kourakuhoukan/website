@@ -1,76 +1,56 @@
 # Modern Company Website
 
-一个现代化的官网模板，采用响应式设计，适合科技公司、互联网企业等使用。
+モダンで洗練された企業向けウェブサイトテンプレート。レスポンシブ対応で、訪問看護（訪問看護ステーション）関連企業に最適です。
 
-## 📸 项目预览
+## 📸 プロジェクトプレビュー
 
-### 首页展示
-![首页展示](https://image.xxxu.me/rest/2aAYslK.png)
+### ホームページ
+![ホームページ](https://kourakuhoukan.github.io/website)
 
-### 产品与关于
-![产品与关于](https://image.xxxu.me/rest/p0lYslK.png)
+### 製品紹介・会社概要
+![製品紹介・会社概要](https://kourakuhoukan.github.io/website)
 
-### 联系我们
-![联系我们](https://image.xxxu.me/rest/sYpYslK.png)
+### お問い合わせ
+![お問い合わせ](https://kourakuhoukan.github.io/website)
 
-## 🌟 主要特性
 
-- 📱 响应式设计，完美适配移动端和桌面端
-- 🎨 现代简约的 UI 设计
-- ✨ 优雅的滚动动画效果（AOS.js）
-- 🖼️ 支持文字/图片 Logo 切换
-- 📊 数据统计展示模块
-- 📝 智能表单验证和提交
-- 🔒 内置防垃圾信息措施
-- 🌐 多平台社交媒体链接
+## 🌟 主な特長
+• 	📱 モバイル・デスクトップ両対応のレスポンシブデザイン
+• 	🎨 モダンでミニマルなUI
+• 	✨ AOS.jsによる滑らかなスクロールアニメーション
+• 	🖼️ テキスト／画像ロゴの切り替え対応
+• 	📊 データ表示モジュール搭載
+• 	📝 フォームのバリデーションと送信機能
+• 	🔒 スパム対策機能を内蔵
+• 	🌐 各種SNSリンク対応
 
-## 🎯 功能模块
+## 🎯 機能モジュール
+### 1. ナビゲーションバー
+• 	レスポンシブ対応メニュー
+• 	テキスト／画像ロゴ切り替え
+• 	スムーズスクロールによるページ内移動
+### 2. トップバナー
+• 	フルスクリーン表示
+• 	グラデーション背景
+• 	目を引くCTAボタン
+### 3. 製品紹介
+• 	3カラムレイアウト
+• 	ホバー時の画像エフェクト
+• 	製品の詳細説明
+### 4. 会社概要
+• 	企業紹介文
+• 	主要データの可視化
+• 	チーム紹介セクション
+### 5. お問い合わせ
+• 	スマートな入力フォーム
+• 	SNSリンク
+• 	所在地・連絡先情報
 
-### 1. 导航栏
 
-响应式导航菜单
-
-支持文字/图片 Logo
-
-平滑滚动定位
-
-### 2. 首页横幅
-
-全屏展示
-
-渐变背景效果
-
-引人注目的 CTA 按钮
-
-### 3. 产品展示
-
-三栏式布局
-
-图片悬停效果
-
-产品详情介绍
-
-### 4. 关于我们
-
-公司简介
-
-核心数据展示
-
-团队风采展示
-
-### 5. 联系方式
-
-智能联系表单
-
-社交媒体链接
-
-位置和联系信息
-
-## 🛠️ 使用的技术
-
+## 🛠️ 使用技術
 - HTML5
 - CSS3 (Flexbox & Grid)
 - JavaScript (ES6+)
-- [AOS.js](https://michalsnik.github.io/aos/) - 滚动动画
-- [Font Awesome 6.0](https://fontawesome.com/) - 图标库
-- [Google Fonts (Poppins)](https://fonts.google.com/specimen/Poppins) - 字体
+- [AOS.js](https://michalsnik.github.io/aos/) - スクロールアニメーション
+- [Font Awesome 6.0](https://fontawesome.com/) - アイコンライブラリ
+- [Google Fonts (Poppins)](https://fonts.google.com/specimen/Poppins) - フォント
